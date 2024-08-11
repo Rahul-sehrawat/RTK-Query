@@ -1,6 +1,10 @@
+import AllProducts from "./components/AllProducts"
+
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <AllProducts/>
+    </div>
   )
 }
 export default App
